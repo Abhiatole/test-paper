@@ -1,0 +1,14 @@
+{
+  "name": "test-paper",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "vue-cli-service serve"
+  },
+  "dependencies": {
+    "firebase": "^9.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^7.4.1",
+    "react-scripts": "5.0.1"
+  }
+}
